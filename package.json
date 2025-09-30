@@ -1,0 +1,8 @@
+{
+  "name": "api-giftcard",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "aws4": "^1.12.0"
+  }
+}
